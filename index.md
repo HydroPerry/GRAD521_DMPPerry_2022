@@ -17,3 +17,20 @@ Htdrometric data collected from the HJ Andrews Forest Database will be stored in
 Physical samples will consist of year round precipitation samples and seasonal synoptic sampling of stream water. In total, approximately 1000-3000 sampels will be collected over the course of two years.
 
 #Roles and Responsibilities 
+
+For this project, data will be managed by myself (Z. Perry) and my PI. Other graduate students and undergraduate students may be involved in some parts of the data collection. Most of the responsibility for data in this project will fall to me. My PI has already implemented steps for a DMP and is the owner of the data for the sake of access control. All other facets of the data will be managed by me. If I were to leave the project, all of the data will be managed by the PI until a replacement PhD student is identified.  The lead for each portion of the data management process is listed below:
+a. Implementation of the DMP [Establishing DMP for the project and putting framework in place to execute this plan.] – PI
+b. Data access control – PI
+c. Data collection [Field data collection will be led by the graduate student but will involve other students. Lab data collection will be led and conducted solely by the graduate student.] – Z. Perry
+d. Data storage [Storage and backup of data in multiple locations] – Z. Perry
+e. Metadata generation – Z. Perry
+f. Data organization – Z. Perry with guidelines set by PI
+g. Data archival – Z. Perry to complete processes set forth by HJ Andrews Forest for data archival
+h. Quality control [Graduate student will use quality control best practices for surface water data collection and isotopic data collection.] – Z. Perry
+i. Equipment Maintenance (Picarro Spectrometer) – Z. Perry
+
+None of our data is protected and once published it will be released to the public in line with the guidelines set by the HJ Andrews LTER Board. This work will not be conducted with human subjects or data and will not include any type of ecological data that may otherwise need to be protected due to the Endangered Species Act. 
+
+During the project, the data will be stored in two different locations. The primary location all of our data is stored is in the Forestry server within the organizational system established by my PI. In addition, data will be stored locally on an external hard-drive. The working data will be stored on the hard-drive and backed up on the server. Data will occasionally exist on local systems in the forestry department, but that will be for active work only and will be backed up daily in the other locations. 
+
+Data will be backed up in two different locations, as stated above. The process will be manual – I will be responsible for keeping up to date files backed up in both locations. Before I graduate, I will complete the proper steps to ensure all of the data is stored within the database maintained by the HJ Andrews LTER. 
